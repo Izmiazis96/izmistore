@@ -14,8 +14,12 @@
               <li>Email: izmi.store@gmail.com</li>
             </ul>
             <div class="footer-social">
-              <a href="https://www.facebook.com/azisgjoy"><i class="fa fa-facebook"></i></a>
-              <a href="https://www.instagram.com/azizgjoy/"><i class="fa fa-instagram"></i></a>
+              <a href="https://www.facebook.com/azisgjoy"
+                ><i class="fa fa-facebook"></i
+              ></a>
+              <a href="https://www.instagram.com/azizgjoy/"
+                ><i class="fa fa-instagram"></i
+              ></a>
               <a href="#"><i class="fa fa-twitter"></i></a>
               <a href="#"><i class="fa fa-pinterest"></i></a>
             </div>
@@ -50,7 +54,7 @@
         <div class="row">
           <div class="col-lg-12">
             <div class="copyright-text">
-              Copyright &copy; 2020-2030 All rights reserved | Shayna All rights
+              Copyright &copy; 2020 All rights reserved | Izmi Store All rights
               reserved | Shayna
             </div>
             <div class="payment-pic">
